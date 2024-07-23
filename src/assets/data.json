@@ -1,0 +1,48 @@
+{
+    "projects": [
+      {
+        "date": "10/07/2024",
+        "title": "TECHY STAR",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://techstar-theta.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "13/07/2024",
+        "title": "VIDEO HUB",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://videohub-eta.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "date": "15/07/2024",
+        "title": "XCrypto",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://cryptoapp-alpha-pink.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "18/07/2024",
+        "title": "REACT CART",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://cart-app-mauve.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "21/07/2024",
+        "title": "PORTFOLIO",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+      {
+        "date": "05/07/2024",
+        "title": "Gemini-clone",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://gemini-clone-inky-pi.vercel.app/",
+        "imgSrc": "https://media.licdn.com/dms/image/sync/D4D27AQE57IlYK2fQsg/articleshare-shrink_800/0/1711347774220?e=2147483647&v=beta&t=No7VpUJG_a2QrsEZVxYimVMx8IBfXAwledNU2w4zVZ4"
+      }
+    ]
+  }
