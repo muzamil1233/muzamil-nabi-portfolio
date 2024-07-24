@@ -43,6 +43,21 @@
         "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
         "url": "https://gemini-clone-inky-pi.vercel.app/",
         "imgSrc": "https://media.licdn.com/dms/image/sync/D4D27AQE57IlYK2fQsg/articleshare-shrink_800/0/1711347774220?e=2147483647&v=beta&t=No7VpUJG_a2QrsEZVxYimVMx8IBfXAwledNU2w4zVZ4"
+      },
+      {
+        "date": "01/07/2024",
+        "title": "Framer-motion",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://react-framer-motion-chi.vercel.app/",
+        "imgSrc": "https://blog.talent500.co/wp-content/uploads/2023/09/image1-1.png"
+      },
+      {
+        "date": "25/05/2024",
+        "title": "New-Look Commerse",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://new-look-website.vercel.app/#product",
+        "imgSrc": "https://i0.wp.com/mamanushka.com/wp-content/uploads/2017/04/style-inspo-kashmiri-tilla-pheran-via-mamanushka-blog-jpg.jpg?resize=740%2C919&ssl=1"
       }
+
     ]
   }
